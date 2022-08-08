@@ -1,0 +1,18 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="http://dgbr.io:80/images/2bffe8e99bded440c9a326cd6751a23d.png", Discovery Channel
+https://aipaipara.xyz/discovery-channel/tracks-v1a1/mono.m3u8?token=96e6e5cdce48420afcc961c731dcb5fe395f19c1-2196d46d905f561f271e89c9133cf126-1658115972-1658108772
+
+#EXTINF:-1 tvg-logo="https://aipaipara.xyz/discovery-science/tracks-v1a1/mono.m3u8?token=0c3314a381ad419fd12567ea4b5d9aa9742b5216-3b8d80a5cb88e2fb45a6347576232f1f-1658124410-1658117210", Dicovery Science
+https://aipaipara.xyz/br/discovery-science/tracks-v1a1/mono.m3u8?token=bd5a7ba063bdcd6961a7d7ddd5b291b4d0eb2fc9-b42ee3da2d528516f9fce06d765f85aa-1658593475-1658586275
+
+#EXTINF:-1 tvg-logo="http://dgbr.io:80/images/c02e20b3a5e776914050a01c27e07146.png", Discovery Theater
+https://aipaipara.xyz/discovery-theater/tracks-v1a1l1/mono.m3u8?token=9555197b35f0d76117210bed17c52fe4407a9ffe-dcf43a9c52c945c7e95b867e184b80c4-1658115055-1658107855
+
+#EXTINF:-1 tvg-logo="https://tv0800.xyz/wp-content/uploads/2021/11/historychannel.png", History 2
+https://aipaipara.xyz/h2/tracks-v1a1/mono.m3u8?token=f8efeeb9851f050782cf906b6a77fa2d80a3feba-125cea3290d973c29329d3673dc557e0-1658594074-1658586874
+
+#EXTINF:-1 tvg-logo="https://tv0800.xyz/wp-content/uploads/2021/11/historychannel.png", History
+https://3watch.xyz/history/tracks-v1a1/mono.m3u8?token=12d2d897400c86dec981a44be9c6760ad9cafd6a-52be8f88557391f2e4f7b037800a03bc-1658608212-1658607912
+#EXTINF:-1 tvg-logo="http://cdnbr.me/logos/img/animalplanet.png", Animal Planet
+https://aipaipara.xyz/animal-planet/tracks-v1a1l1/mono.m3u8?token=228cd27b81471b1b386441b1a59abc040fac2080-a379d82444da1c1e05803201623f8570-1658115433-1658108233
+

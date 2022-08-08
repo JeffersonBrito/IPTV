@@ -1,0 +1,6 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://media.jovempan.com.br/uploads/2018/07/JPNews-imagem-pagina-e1530887165749.png", Jovem Pan News
+http://168.205.87.198:8555/live/antony/1234/161.m3u8
+
+#EXTINF:-1 tvg-logo="http://xsrv.me/logos/img/bandnews.png", Band News
+https://aipaipara.xyz/band-news/tracks-v1a1/mono.m3u8?token=87f99d5ecdbe657766143ffc22c29b399d635bb4-db1257c37454bd98f44dea041261991d-1658117179-1658109979

@@ -1,0 +1,8 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://piratetv.xyz/wp-content/uploads/2022/04/combate.png", Combate
+https://aipaipara.xyz/combate/tracks-v1a1/mono.m3u8?token=712e9b4b2f1bb2f56b9a4af6bc28907e7c579b38-03fde734f69609cb84ee2f7d309d7432-1658119522-1658112322
+#EXTINF:-1 tvg-logo="http://xsrv.me/logos/img/espnbrasil.png", ESPN Brasil
+https://aipaipara.xyz/espn3/tracks-v1a1/mono.m3u8?token=ab89c94b4c13402021dd9631c4f35f2cadde358b-4aa7e39bde22cf891260f73b9cd0bb13-1658117558-1658110358
+
+#EXTINF:-1 tvg-logo="http://xsrv.me/logos/img/espnbrasil.png", Premier 1
+https://0a94e35d871f1494.cdn.gocache.net/hls/apostaganha1.m3u8
